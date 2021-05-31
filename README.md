@@ -1,6 +1,6 @@
 # CBOR encoder for PHP
---------
-Decoder/encoder from PHP data to CBOR binary string. This code has been developed and maintained by Ven at January 2014.
+*Decoder/encoder from PHP data to CBOR binary string. <br>
+This code has been developed and maintained by Ven at January 2014.*
 
 CBOR is an object representation format defined by the [IETF](http://ietf.org).
 The [specification](http://tools.ietf.org/html/rfc7049)
